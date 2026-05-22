@@ -1,0 +1,9 @@
+name: AXPortableBlocks
+version: 1.0
+main: com.Axolotlmc.portableblocks.Main
+api-version: 1.20
+authors: [ AxolotlMC-Team|叶烬晞 ]
+commands:
+  pb:
+    description: 打开随身方块
+    usage: /pb <anvil|crafting|cartography|loom|grindstone|smithing>
